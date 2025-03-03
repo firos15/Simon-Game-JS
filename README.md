@@ -1,5 +1,8 @@
 #Simon Game: Memory Challenge
+
+
 Project Overview:
+
 The Simon Game is a classic memory challenge where players test their recall abilities by following an increasingly complex sequence of lights and sounds. Built using React, this interactive game provides an engaging and fun experience for players of all ages.
 
 Key Features:
